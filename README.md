@@ -1,18 +1,18 @@
-# jquery-delimited-keyboard
+# jquery-keyboard-delimiter
 This plugin remove the possibility of pressing any key or group of keys defined previously.
 
-You can use this plugin to delimite the writing, for example:
+You can use this plugin to delimite the writing on inputs, for example:
 - Only numbers.
 - Numbers with signs.
 - Text without numbers.
 - Common keys as ESC, CTRL, etc.
 
-How to use delimited-keyboard.
+How to use keyboard-delimiter.
 -------------
-Include delimited-chars & jquery to your Site
+Include keyboard-delimiter & jquery to your Site
   ```
   <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-  <script src="js/jquery-delimited-keyboard.min.js"></script>
+  <script src="js/jquery-keyboard-delimiter.min.js"></script>
   ```
 Add a input type text on your html document
 ```
